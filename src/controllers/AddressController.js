@@ -1,5 +1,3 @@
-const { store } = require("./UserController");
-
 const Address = require('../model/Address');
 const User = require('../model/User');
 

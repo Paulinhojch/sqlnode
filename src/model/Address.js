@@ -12,6 +12,8 @@ class Address extends Model {
             sequelize
         })
     }
+
+
 }
 
 module.exports = Address;
